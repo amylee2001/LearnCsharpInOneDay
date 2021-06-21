@@ -3,3 +3,5 @@
 ################################################################################
 
 *.suo
+/SwitchStatement/obj/Debug
+/SwitchStatement/Properties
