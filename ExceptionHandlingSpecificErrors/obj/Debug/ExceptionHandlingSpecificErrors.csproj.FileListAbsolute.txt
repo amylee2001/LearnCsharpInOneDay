@@ -1,0 +1,7 @@
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\ExceptionHandlingSpecificErrors\bin\Debug\ExceptionHandlingSpecificErrors.exe.config
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\ExceptionHandlingSpecificErrors\bin\Debug\ExceptionHandlingSpecificErrors.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\ExceptionHandlingSpecificErrors\bin\Debug\ExceptionHandlingSpecificErrors.pdb
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\ExceptionHandlingSpecificErrors\obj\Debug\ExceptionHandlingSpecificErrors.csprojAssemblyReference.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\ExceptionHandlingSpecificErrors\obj\Debug\ExceptionHandlingSpecificErrors.csproj.CoreCompileInputs.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\ExceptionHandlingSpecificErrors\obj\Debug\ExceptionHandlingSpecificErrors.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\ExceptionHandlingSpecificErrors\obj\Debug\ExceptionHandlingSpecificErrors.pdb
