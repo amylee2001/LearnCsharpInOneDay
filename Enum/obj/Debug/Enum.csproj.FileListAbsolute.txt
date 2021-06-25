@@ -1,0 +1,7 @@
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Enum\bin\Debug\Enum.exe.config
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Enum\bin\Debug\Enum.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Enum\bin\Debug\Enum.pdb
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Enum\obj\Debug\Enum.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Enum\obj\Debug\Enum.pdb

@@ -1,0 +1,7 @@
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Struct\bin\Debug\Struct.exe.config
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Struct\bin\Debug\Struct.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Struct\bin\Debug\Struct.pdb
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Struct\obj\Debug\Struct.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\Struct\obj\Debug\Struct.pdb

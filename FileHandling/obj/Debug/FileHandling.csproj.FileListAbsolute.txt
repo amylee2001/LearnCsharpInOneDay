@@ -1,0 +1,7 @@
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\FileHandling\obj\Debug\FileHandling.csprojAssemblyReference.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\FileHandling\obj\Debug\FileHandling.pdb

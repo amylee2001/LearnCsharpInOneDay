@@ -1,0 +1,7 @@
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\LINQ\bin\Debug\LINQ.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\LINQ\bin\Debug\LINQ.pdb
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\LINQ\obj\Debug\LINQ.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\LINQ\obj\Debug\LINQ.pdb

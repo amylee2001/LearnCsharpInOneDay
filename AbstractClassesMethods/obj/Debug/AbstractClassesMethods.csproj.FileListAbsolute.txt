@@ -1,0 +1,7 @@
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\AbstractClassesMethods\bin\Debug\AbstractClassesMethods.exe.config
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\AbstractClassesMethods\bin\Debug\AbstractClassesMethods.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\AbstractClassesMethods\bin\Debug\AbstractClassesMethods.pdb
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\AbstractClassesMethods\obj\Debug\AbstractClassesMethods.csprojAssemblyReference.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\AbstractClassesMethods\obj\Debug\AbstractClassesMethods.csproj.CoreCompileInputs.cache
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\AbstractClassesMethods\obj\Debug\AbstractClassesMethods.exe
+C:\Users\amyen\OneDrive\Desktop\cs\Tutorial\Csharp\LearnCsharpInOneDay\AbstractClassesMethods\obj\Debug\AbstractClassesMethods.pdb
